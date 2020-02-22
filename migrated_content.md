@@ -18,50 +18,6 @@ The date for our next meeting will be announced shortly.
 If you have any recommendations for speakers, venues or potential
 sponsors, please contact the Chapter Leaders.
 
-# Code of conduct
-
-OWASP Manchester meetings and events are an inclusive environment where
-all people should feel safe and respected. We welcome diversity in age,
-race, ethnicity, national origin, range of abilities, sexual
-orientation, gender identity, financial means, education, and political
-perspective.
-
-OWASP Manchester will not tolerate any form of violence, harassment,
-hate speech or trolling either off or online, or any overly drunken,
-intimidating or heckling behaviour.
-
-Please respect the presenters, don’t talk amongst yourselves during
-their presentations and ensure your mobile phones are muted or switched
-off.
-
-We want you to have fun, in a safe and respectful environment.
-
-If you have any issues or concerns relating to the code of conduct
-please contact one or the Chapter Leads either in person, though the
-Meetup page or via email.
-
-Chapter Leads:
-
-  - Ben Fountain
-  - Daniel Pollard
-  - Joe Carter
-  - Nikola Milosevic
-  - Saskia Coplans
-  - Wes Parsons
-
-(email addresses are on the OWASP website
-[1](https://www.owasp.org/index.php/Manchester)).
-
-As this is a private event we withhold the right to remove and
-ultimately ban anyone who violates this code of conduct and will report
-any incidents to the appropriate authorities if necessary.
-
-**Polite note to Vendors/Recruiters/Internal Recruiters/Business
-Development people**
-
-Vendors and Recruiters are welcome at OWASP Manchester, however we ask
-that you remember this is a user group, not a networking event, and
-tapping people up for jobs or business unprompted is not encouraged.
 
 # Past Events
 

@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Manchester
-tags: example-tag
+tags: manchester
 level: 0
 
 region: Europe
