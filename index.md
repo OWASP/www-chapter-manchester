@@ -7,8 +7,6 @@ level: 0
 
 region: Europe
 
-auto-migrated: 1
-
 ---
 # Welcome
 The OWASP local chapter group for the Manchester, UK area.
