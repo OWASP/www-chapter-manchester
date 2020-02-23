@@ -9,7 +9,7 @@ region: Europe
 
 ---
 # Welcome
-The OWASP local chapter group for the Manchester, UK area.
+Welcome to the Manchester chapter homepage. This UK chapter was started in 2011, having grown out of the successful Leeds_UK chapter.
 
 # Next Meeting
 
