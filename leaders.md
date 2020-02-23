@@ -1,8 +1,10 @@
 ### Leaders
 
-* [Ben Fountain](mailto:)
-* [Daniel Pollard](mailto:)
+* Ben Fountain
+* [Daniel Pollard](mailto:daniel.pollard@owasp.org)
 * [Nikola Milosevic](mailto:nikola.milosevic@owasp.org)
-* [? Joe Carter](mailto:)
-* [? Saskia Coplans](mailto:)
-* [? Wes Parsons](mailto:)
+
+### Chapter Board Members
+* Joe Carter
+* [Saskia Coplans](mailto:saskia@digitalinerruption.com)
+* [Wes Parsons](mailto:parsonswesley@gmail.com)

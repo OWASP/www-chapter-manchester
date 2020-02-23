@@ -20,21 +20,6 @@ sponsors, please contact the Chapter Leaders.
 
 
 
-
-# Chapter Leaders
-
-The chapter leaders are:
-
-  - Ben Fountain
-  - [Nikola Milosevic](User:Nikola_Milosevic "wikilink")
-  - [Daniel Pollard](User:Daniel_Pollard "wikilink")
-
-Chapter Board Members are:
-
-  - Joe Carter
-  - [Saskia Coplans](mailto:saskia@digitalinerruption.com)
-  - [Wes Parsons](mailto:parsonswesley@gmail.com)
-
 # Sponsorship
 
 We are looking for organizations to sponsor the Manchester chapter.
