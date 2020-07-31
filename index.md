@@ -6,6 +6,9 @@ tags: manchester
 level: 0
 
 region: Europe
+meetup-group: OWASP-Manchester
+country: United Kingdom
+postal-code: 
 
 ---
 # Welcome
