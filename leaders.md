@@ -6,7 +6,4 @@
 
 * Ben Fountain
 
-### Chapter Board Members
-* Joe Carter
-* [Saskia Coplans](mailto:saskia@digitalinerruption.com)
-* [Wes Parsons](mailto:parsonswesley@gmail.com)
+
