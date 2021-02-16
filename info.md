@@ -10,3 +10,8 @@
 
 * [Mailing
 list](https://groups.google.com/a/owasp.org/forum/#!forum/manchester-chapter) (and [previous Archive](https://lists.owasp.org/mailman/listinfo/owasp-Manchester))
+
+### Chapter Board Members
+* Joe Carter
+* [Saskia Coplans](mailto:saskia@digitalinerruption.com)
+* [Wes Parsons](mailto:parsonswesley@gmail.com)
