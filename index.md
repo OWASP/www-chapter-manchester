@@ -1,12 +1,12 @@
 ---
 
 layout: col-sidebar
-title: OWASP Manchester
+title: OWASP Manchester, UK
 tags: manchester
 level: 0
 
 region: Europe
-meetup-group: OWASP-Manchester
+meetup-group: OWASP-Manchester-UK
 country: United Kingdom
 postal-code: 
 
