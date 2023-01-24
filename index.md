@@ -2,15 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Manchester
-tags: manchester
-level: 0
-
+tags: 
 region: Europe
-meetup-group: 
-country: United Kingdom
+meetup-group:
 
-
---
+---
 
 <div style='color:red;'>
 
