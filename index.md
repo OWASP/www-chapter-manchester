@@ -1,10 +1,14 @@
 ---
 
 layout: col-sidebar
-title: OWASP Manchester, UK
-tags: example-tag
+title: OWASP Manchester
+tags: manchester
+level: 0
+
 region: Europe
-meetup-group:
+meetup-group: 
+country: United Kingdom
+
 
 --
 
