@@ -1,5 +1,5 @@
 ---
-title: other_information
+title: other_info
 displaytext: Other Information
 layout:  null
 tab: true
