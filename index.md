@@ -11,7 +11,6 @@ meetup-group:
 ## Welcome
 Welcome to the official page of OWASP Manchester. We'll be running multiple events throughout the year so join our Meetup page to stay informed!
 
-You can follow us on Twitter here: [@OWASPMcr](https://twitter.com/OwaspMcr). 
 
 If you have an idea for a talk, feel free to reach out on Twitter or contact one of the chapter leaders from the sidebar. 
 
