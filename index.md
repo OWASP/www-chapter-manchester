@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Manchester
 tags: 
 region: Europe
-meetup-group:
+meetup-group: owasp-manchester-uk-chapter
 
 ---
 
