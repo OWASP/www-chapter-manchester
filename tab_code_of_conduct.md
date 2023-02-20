@@ -31,8 +31,11 @@ Meetup page or via email.
 
 Chapter Leaders:
 
-*(Names and emails as per the sidebar on the OWASP Chapter Site)
-*
+* [Dan Smart](mailto:daniel.smart@owasp.org)
+* [Paul Johnston](mailto:paul.johnston@owasp.org)
+* [Saira Hassan](mailto:saira.hassan@owasp.org)
+* [Saskia Coplans](mailto:saskia.coplans@owasp.org)
+* [Wesley Parsons](mailto:wesley.parsons@owasp.org)
 
 As this is a private event we withhold the right to remove and
 ultimately ban anyone who violates this code of conduct and will report

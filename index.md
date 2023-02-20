@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Manchester
-tags: 
+tags: manchester
 region: Europe
 meetup-group: owasp-manchester-uk-chapter
 
@@ -11,8 +11,7 @@ meetup-group: owasp-manchester-uk-chapter
 ## Welcome
 Welcome to the official page of OWASP Manchester. We'll be running multiple events throughout the year so join our Meetup page to stay informed!
 
-
-If you have an idea for a talk, feel free to reach out on Twitter or contact one of the chapter leaders from the sidebar. 
+If you wish to talk at or sponsor a future event please feel free to reach out on Twitter, Meetup, or email one of the chapter leaders from the sidebar. 
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
