@@ -6,4 +6,12 @@
 * [Saskia Coplans](mailto:saskia.coplans@owasp.org)
 * [Wesley Parsons](mailto:wesley.parsons@owasp.org)
 
+### Volunteers
 
+* Ben Fountain
+* Daniel Oates-Lee
+* Daniel Pollard
+* Joe Carter
+* Pete Davies
+* Simon Gurney
+* Tim Wilkes
