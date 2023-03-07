@@ -14,7 +14,7 @@ Welcome to the official page of OWASP Manchester. We'll be running multiple even
 If you wish to talk at or sponsor a future event please feel free to reach out on Twitter, Meetup, or email one of the chapter leaders from the sidebar. 
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
