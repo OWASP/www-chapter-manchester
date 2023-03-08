@@ -8,10 +8,12 @@
 
 ### Volunteers
 
+* Andy Hornsby-Jones
 * Ben Fountain
 * Daniel Oates-Lee
 * Daniel Pollard
 * Joe Carter
 * Pete Davies
+* Simon Bennetts
 * Simon Gurney
 * Tim Wilkes
