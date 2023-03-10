@@ -17,3 +17,5 @@
 * Simon Bennetts
 * Simon Gurney
 * Tim Wilkes
+
+A big thank you to Cooper ([@Ministraitor](https://twitter.com/Ministraitor)) for lending us the AV equipment to record and stream our events. 
