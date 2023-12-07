@@ -159,7 +159,7 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
 
 </details>
 
-<br><br>
+<br>
 
 ### 2019
 ---
@@ -188,7 +188,7 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
     <b>Distil Networks</b> - Food & drink
 </details>
 
-<br><br>
+<br>
 
 ### 2018
 ---
