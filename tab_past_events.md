@@ -159,8 +159,10 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
 
 </details>
 
+<br><br>
 
 ### 2019
+---
 
 <details>
     <summary><b>Secure Code Warrior - August 2019</b></summary>
@@ -186,8 +188,10 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
     <b>Distil Networks</b> - Food & drink
 </details>
 
+<br><br>
 
 ### 2018
+---
 
 <details>
     <summary><b>OWASP Manchester CTF - 13 November 2018</b></summary>
