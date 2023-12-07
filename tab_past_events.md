@@ -158,3 +158,94 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
   <b><a href="https://www.cytix.io/" rel="noreferrer">Cytix</a></b> - Special thanks for making introductions. <br><br>
 
 </details>
+
+
+### 2019
+
+<details>
+    <summary><b>Secure Code Warrior - August 2019</b></summary>
+</details>
+
+<details>
+    <summary><b>28 May 2019</b></summary>
+
+    <h3>Simon Bennetts</h3>
+
+    OWASP ZAPs lead hacker, Simon Bennetts will be taking us through the new User Interface for ZAP - the ZAP Heads Up Display (or HUD).
+
+    <h3>Gerald Benischke</h3>
+
+    <a href="https://www.slideshare.net/GeraldBenischke/xml-is-evil-owasp-manchester-may-2019-148102429">Slides</a>
+    <br><br>
+
+    XML is Evil: This talk describes several common XML security vulnerabilities, how they can be found and mitigated against.  Real life examples (though anonymised)  are used to illustrate how these issues can be exploited.
+
+    <h3>Sponsors</h3>
+
+    <b>RentalCars</b> - Venue sponsor<br>
+    <b>Distil Networks</b> - Food & drink
+</details>
+
+
+### 2018
+
+<details>
+    <summary><b>OWASP Manchester CTF - 13 November 2018</b></summary>
+
+    Manchester OWASP will be running it’s first annual CTF on November 13th in partnership with Manchester Grey Hats who will be running the challenges.
+
+The CTF will be hosted by the Manchester Technology Centre on Oxford Road and is aimed at people working in the tech industry who have an interest in security. The CTF itself will be a jeopardy style challenge aimed at a range of technical capabilities, with some low or non tech challenges.
+
+So, if you're a developer, software tester, system architect, infosec professional, or just have an interest in security sign up. We'll be running teams of 4, so you can either enter a full team or we can help you put one together on the day!
+
+Manchester Grey Hats will be running a series of short workshops on the same topics as the CTF on October 24th, so keep an eye on their Meetup page!
+
+Thanks to our community sponsors; Manchester Grey Hats, North West Testers Gathering, Manchester Girl Geeks, Techs and the City, Tech Leaders of the North West and PowerShell Manchester.
+</details>
+
+<details>
+    <summary><b>4 September 2018</b></summary>
+
+    <h3>Scott Helme</h3>
+    <h3>Catherine Chapman</h3>
+
+    <h3>Sponsors</h3>
+
+    Booking Go (Rentalcars)<br>
+    SureCloud
+</details>
+
+<details>
+    <summary><b>17 July 2018</b></summary>
+
+    <h3>Mike Thompson</h3>
+
+    <a href="https://www.youtube.com/watch?v=EGj-M_Q9qZY">Talk recording</a>
+
+    <h3>Liz Bell</h3>
+
+    <a href="https://www.youtube.com/watch?v=LQYNTqx3vIg">Talk recording</a>
+
+    <h3>Sponsors</h3>
+
+    Mad Lab - Venue<br>
+    ReportUri<br>
+    NCC
+</details>
+
+<details>
+    <summary><b>3 May 2018</b></summary>
+
+    <h3>Daniel Dresner</h3>
+
+    Will be taking us through his experience of careers in the IT industry and academia.
+
+    <h3>John Denneny</h3>
+
+    Founder of Pen Test Limited, will be talking about his experience of setting up and running a successful IT Security company.
+
+    <h3>Sponsors</h3>
+
+    University of Manchester - Venue<br>
+    NCC Group
+</details>
