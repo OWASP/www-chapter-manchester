@@ -165,7 +165,9 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
 ---
 
 <details>
-    <summary><b>Secure Code Warrior - August 2019</b></summary>
+    <summary><b>Secure Code Warrior - 8 August 2019</b></summary>
+    
+    Hosted by BBC
 </details>
 
 <details>
