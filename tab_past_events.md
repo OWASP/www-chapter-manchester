@@ -27,8 +27,8 @@ Using these offensive security techniques, your teams will find new ways to brea
 
 <h3>Dr Katie Paxton-Fear: Go Hack Yourself: API hacking for beginners</h3>
 
-[Talk recording](https://www.youtube.com/watch?v=Og7va5eb8UU)
-
+<a href="https://www.youtube.com/watch?v=Og7va5eb8UU">Talk recording</a>
+<br><br>
 Over the past few years, we've really seen API hacking take off as a field of its own, diverging from typical web app security, but yet parallel to it. Often we point to the amorphous blob that is web security and go: "here you go, now you can be a hacker too", with top 10 lists, write-ups, conference talks and whitepapers smiling as we do. This creates a major challenge for developers who want to test their APIs for security or just people who want to get into API hacking, how on earth do you wade through all the general web security to get to the meat of API hacking, what do you even need to know? This talk is going to break down API hacking from a developer point of view, teaching you everything you need to know about API hacking, from the bugs you can find and to the impact you can cause, to how you can easily test your own work or review your peers. So what are you waiting for join me and go hack yourself!
 
 <br><br>
@@ -41,8 +41,8 @@ A lecturer in Cyber Security at Manchester Metropolitan University and a cyber s
 
 <h3>Gerald Benischke - Application DoS vulnerabilities</h3>
 
-[Talk recording](https://www.youtube.com/watch?v=b2o4m-eE-io)
-
+<a href="https://www.youtube.com/watch?v=b2o4m-eE-io">Talk recording</a>
+<br><br>
 This AppSec-focussed talk demonstrates how denial of service attacks can be carried out without throwing lots and lots of traffic at a system and effectively stop services. This uses a couple of vulnerabilities in the play framework as an example and describes the impact. This approach can be likened to using precision guided missiles rather than the carpet bombing of DDoS attacks.
 
 I will explore the role that convenience for developers in frameworks combined with unexpected payloads and how this can be exploited. I also draw on how the service mesh can amplify this attack such that multiple instances can be killed with a single request. Furthermore, we look at how Web Application Firewalls (WAFs) offer no protection against this type of attack.
@@ -79,7 +79,8 @@ By using these tools, your teams will be able to truly show that your products a
 
 <h3>Simon Bennetts: An Introduction to OWASP ZAP</h3>
 
-[Talk recording](https://www.youtube.com/watch?v=8SmimaP0VWc&t=23s)
+<a href="https://www.youtube.com/watch?v=8SmimaP0VWc&t=23s">Talk recording</a>
+<br><br>
 
 In this talk Simon (the ZAP founder and project lead) will give you an overview of the worlds most popular web security scanner. He will also talk about the most recent changes and whats coming next.
 
@@ -94,7 +95,8 @@ Prior to making the move into security he was a developer for 25 years and stron
 
 <h3>Anthony Harrison - SBOMs and why they can help make your software more secure</h3>
 
-[Talk recording](https://www.youtube.com/watch?v=COi7fTmix7U)
+<a href="https://www.youtube.com/watch?v=COi7fTmix7U">Talk recording</a>
+<br><br>
 
 This talk will explain what a SBOM (Software Bill of Material) is, how and when they should be produced / some of the challenges that need to be overcome, and demonstrate how they should form part of a DevSecOPs lifecycle. I will try and supplement the talk with some demonstrations using a number of open source applications.
 
@@ -126,7 +128,8 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
 
   <h3>Threat Modelling - <a href="https://uk.linkedin.com/in/fewster" rel="noreferrer">Robin Fewster</a></h3>
 
-  [Talk recording](https://www.youtube.com/watch?v=oceDLvJqlDY)
+  <a href="https://www.youtube.com/watch?v=oceDLvJqlDY">Talk recording</a>
+<br><br>
 
   Drawing on some client experiences, Robin will discuss different threat modelling approaches and tools available, and how they went down with development teams.
   
@@ -137,7 +140,8 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
   <br><br>
   <h3>SAST, DAST, IAST, RASP - <a href="https://uk.linkedin.com/in/daniel-oates-lee-05ba7117" rel="noreferrer">Daniel Oates-Lee</a></h3>
   
-  [Talk recording](https://www.youtube.com/watch?v=UdLX3oBi7Yg&t=24s)
+  <a href="https://www.youtube.com/watch?v=UdLX3oBi7Yg&t=24s">Talk recording</a>
+<br><br>
 
   Daniel will give us an introduction to DevSecOps and share their experience enabling secure development for clients.
   
