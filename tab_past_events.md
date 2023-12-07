@@ -13,8 +13,109 @@ tags: manchester
 
 ---
 
+
 <details>
-  <summary><b>Proactive Security - How do you prevent vulnerabilities? - 7th March 2023</b></summary>
+  <summary><b>Breaking Yourselves, But In The Best Way Possible - 21 September 2023</b></summary>
+
+  <h3>Details</h3>
+
+In this session we'll be discussing various ways to improve your offensive security testing.
+Using these offensive security techniques, your teams will find new ways to break applications, and test your defenses.
+
+  <br><br>
+  <h3>Talks</h3>
+
+<h3>Dr Katie Paxton-Fear: Go Hack Yourself: API hacking for beginners</h3>
+
+[Talk recording](https://www.youtube.com/watch?v=Og7va5eb8UU)
+
+Over the past few years, we've really seen API hacking take off as a field of its own, diverging from typical web app security, but yet parallel to it. Often we point to the amorphous blob that is web security and go: "here you go, now you can be a hacker too", with top 10 lists, write-ups, conference talks and whitepapers smiling as we do. This creates a major challenge for developers who want to test their APIs for security or just people who want to get into API hacking, how on earth do you wade through all the general web security to get to the meat of API hacking, what do you even need to know? This talk is going to break down API hacking from a developer point of view, teaching you everything you need to know about API hacking, from the bugs you can find and to the impact you can cause, to how you can easily test your own work or review your peers. So what are you waiting for join me and go hack yourself!
+
+<br><br>
+
+<b>About Dr Katie Paxton-Fear</b><br>
+
+A lecturer in Cyber Security at Manchester Metropolitan University and a cyber security researcher, but she's far more well known for her hobby. In her free time, she's a hacker, specialising in API hacking teaching others through her YouTube videos. A former developer turned hacker, she used to make RESTful APIs and now she breaks them. She found her first API vulnerability in 2019 which affected Uber and since then she has been hacking APIs ever since, creating hours of content to help others follow in her footsteps. With her PhD in cyber security and machine learning, she loves to introduce a data-driven approach to hacking combining new tools with manual testing to ensure an impactful bug report every time.
+
+  <br><br>
+
+<h3>Gerald Benischke - Application DoS vulnerabilities</h3>
+
+[Talk recording](https://www.youtube.com/watch?v=b2o4m-eE-io)
+
+This AppSec-focussed talk demonstrates how denial of service attacks can be carried out without throwing lots and lots of traffic at a system and effectively stop services. This uses a couple of vulnerabilities in the play framework as an example and describes the impact. This approach can be likened to using precision guided missiles rather than the carpet bombing of DDoS attacks.
+
+I will explore the role that convenience for developers in frameworks combined with unexpected payloads and how this can be exploited. I also draw on how the service mesh can amplify this attack such that multiple instances can be killed with a single request. Furthermore, we look at how Web Application Firewalls (WAFs) offer no protection against this type of attack.
+
+Lastly, I will look at what can be done to protect applications against this type of attack.
+
+<br/><br/>
+<b>About Gerald Benischke</b><br>
+
+I tend to describe myself as both an Agile Fundamentalist and an AppSec Snooper. What does this mean? On the one hand my software development experience has led me to think that the principles of the agile manifesto form the basis of good practices. It boils down to lots of common sense, small steps, learning along the way, not writing code that nobody will want or need and taking processes and procedures with a pinch of salt.
+
+  <br><br>
+  <h3>Sponsors</h3>
+
+  We'd like to say THANK YOU to the companies who helped make this event possible: <br>
+
+<b>Booking.com</b> - Venue Sponsor<br>
+<b>Booking.com</b> - Food & Drink Sponsor
+
+</details>
+
+
+
+<details>
+    <summary><b>Security Tools - Proving your applications are as secure as possible - 7 June 2023</b></summary>
+
+ <h3>Details</h3>
+
+In this session we'll be discussing various Tools used within Security.
+By using these tools, your teams will be able to truly show that your products are as secure as they can be.
+
+  <br><br>
+  <h3>Talks</h3>
+
+<h3>Simon Bennetts: An Introduction to OWASP ZAP</h3>
+
+[Talk recording](https://www.youtube.com/watch?v=8SmimaP0VWc&t=23s)
+
+In this talk Simon (the ZAP founder and project lead) will give you an overview of the worlds most popular web security scanner. He will also talk about the most recent changes and whats coming next.
+
+<br><br>
+
+<b>About Simon Bennetts</b><br>
+The OWASP Zed Attack Proxy (ZAP) Founder and Project Leader, and a Distinguished Engineer at Jit.
+He has talked about and demonstrated ZAP at conferences all over the world, including Blackhat, JavaOne, FOSDEM and OWASP AppSec EU, USA & AsiaPac.
+Prior to making the move into security he was a developer for 25 years and strongly believes that you cannot build secure web applications without knowing how to attack them.
+
+  <br><br>
+
+<h3>Anthony Harrison - SBOMs and why they can help make your software more secure</h3>
+
+[Talk recording](https://www.youtube.com/watch?v=COi7fTmix7U)
+
+This talk will explain what a SBOM (Software Bill of Material) is, how and when they should be produced / some of the challenges that need to be overcome, and demonstrate how they should form part of a DevSecOPs lifecycle. I will try and supplement the talk with some demonstrations using a number of open source applications.
+
+<br/><br/>
+<b>About Anthony Harrison</b><br>
+
+An independent systems/software/cyber consultant. I am part of the SPDX community developing the forthcoming security profile, and a member of the OpenSSF SBOM Everywhere working group and SBOM Forum. I have presented on SBOMs at FOSDEM (2002 and 2023), EuroPython 2022 and will be presenting at PyCascades (Vancouver) in March.
+
+  <br><br>
+  <h3>Sponsors</h3>
+
+  We'd like to say THANK YOU to the companies who helped make this event possible: <br>
+
+<b>Bruntwood</b> - Venue Sponsor<br>
+<b>Cytix</b> - Food & Drink Sponsor
+
+</details>
+
+
+<details>
+  <summary><b>Proactive Security - How do you prevent vulnerabilities? - 7 March 2023</b></summary>
   
   <h3>Details</h3>
 
@@ -24,6 +125,9 @@ tags: manchester
   <h3>Talks</h3>
 
   <h3>Threat Modelling - <a href="https://uk.linkedin.com/in/fewster" rel="noreferrer">Robin Fewster</a></h3>
+
+  [Talk recording](https://www.youtube.com/watch?v=oceDLvJqlDY)
+
   Drawing on some client experiences, Robin will discuss different threat modelling approaches and tools available, and how they went down with development teams.
   
   <br><br>
@@ -32,6 +136,9 @@ tags: manchester
   
   <br><br>
   <h3>SAST, DAST, IAST, RASP - <a href="https://uk.linkedin.com/in/daniel-oates-lee-05ba7117" rel="noreferrer">Daniel Oates-Lee</a></h3>
+  
+  [Talk recording](https://www.youtube.com/watch?v=UdLX3oBi7Yg&t=24s)
+
   Daniel will give us an introduction to DevSecOps and share their experience enabling secure development for clients.
   
   <br><br>
@@ -45,8 +152,5 @@ tags: manchester
   <b><a href="https://labs.uk.barclays/dish/" rel="noreferrer">Barclays DiSH</a></b> - Thank you so much for sponsoring the venue. <br>
   <b><a href="https://www.beyondtrust.com/" rel="noreferrer">BeyondTrust</a></b> - Thank you so much for sponsoring the food & drink. <br>
   <b><a href="https://www.cytix.io/" rel="noreferrer">Cytix</a></b> - Special thanks for making introductions. <br><br>
-
-  <h3>Recordings</h3>
-  Coming Soon!
 
 </details>
