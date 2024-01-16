@@ -8,9 +8,59 @@ tags: manchester
 ---
 
 ---
+### 2024
+---
 
+<details>
+  <summary><b>Assembly and Disassembly, an OWASP guide to application security - 15 January 2024</b></summary>
+
+  <h3>Details</h3>
+
+In this session we discussed application security and the basics of assembly. 
+
+  <br><br>
+  <h3>Talks</h3>
+
+<h3>Stuart Crawford - AppSec in the Enterprise: in-flight testing and Shifting Left</h3>
+
+<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<br><br>
+In a world where web-based applications are ubiquitous, penetration testing is well-established as a way of verifying those applications are secure, but how do we stop finding ourselves falling into an endless cycle of 'deploy, test, fix'?
+The answer is by paying closer attention to security in the development lifecycle, and I'll provide an example of how we're doing this at one of, if not the largest Independent Software Vendors in the UK
+
+<br><br>
+
+<b>About Stuart Crawford</b><br>
+
+Stuart is Appsec program manager at one of the largest SaaS companies in the UK
+
+  <br><br>
+
+<h3>Tom Blue - Basic Assembly and Memory</h3>
+
+<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<br><br>
+This talk would be an overview of how basic assembly and memory works, the structure of programs compiled in C and how to follow the logic of disassembled programs. I’ll show how to use tools such as ghidra to decompile code and to make the reverse engineering process more efficient and cover things such as buffer overflows, patching code and return oriented programming.
+
+<br/><br/>
+<b>About Tom Blue</b><br>
+
+Tom is a second year student at Lancaster University studying computer science. He’s passionate about cybersecurity, having worked in the industry for two years, as well as helping run LUHack and LUCompSoc, Lancaster University's hacking and computing societies. He works the university as a casual researcher and is currently looking at embedded systems security and I'm helping write the Cyber Physical Systems module for the cybersecurity masters degree. He also worked as an intern for Digital Interruption, a Manchester based cyber security consultancy.
+
+  <br><br>
+  <h3>Sponsors</h3>
+
+  We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
+
+<b>Amazon</b> - Venue Sponsor<br>
+<b>Pentest</b> - Food & Drink Sponsor
+
+</details>
+
+<br>
+
+---
 ### 2023
-
 ---
 
 
@@ -161,6 +211,7 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
 
 <br>
 
+---
 ### 2019
 ---
 
@@ -192,6 +243,7 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
 
 <br>
 
+---
 ### 2018
 ---
 
