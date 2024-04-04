@@ -23,7 +23,7 @@ In this session we discussed application security and the basics of assembly.
 
 <h3>Stuart Crawford - AppSec in the Enterprise: in-flight testing and Shifting Left</h3>
 
-<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<a href="https://www.youtube.com/watch?v=2SHJBKGCu_4">Talk recording</a>
 <br><br>
 In a world where web-based applications are ubiquitous, penetration testing is well-established as a way of verifying those applications are secure, but how do we stop finding ourselves falling into an endless cycle of 'deploy, test, fix'?
 The answer is by paying closer attention to security in the development lifecycle, and I'll provide an example of how we're doing this at one of, if not the largest Independent Software Vendors in the UK
@@ -38,7 +38,7 @@ Stuart is Appsec program manager at one of the largest SaaS companies in the UK
 
 <h3>Tom Blue - Basic Assembly and Memory</h3>
 
-<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<a href="https://www.youtube.com/watch?v=np88HE8t0cs">Talk recording</a>
 <br><br>
 This talk would be an overview of how basic assembly and memory works, the structure of programs compiled in C and how to follow the logic of disassembled programs. I’ll show how to use tools such as ghidra to decompile code and to make the reverse engineering process more efficient and cover things such as buffer overflows, patching code and return oriented programming.
 
