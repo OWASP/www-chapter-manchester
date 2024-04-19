@@ -12,6 +12,61 @@ tags: manchester
 ---
 
 <details>
+  <summary><b>Forward or Reverse Engineering - Get your app security into gear - 18 April 2024</b></summary>
+
+  <h3>Details</h3>
+
+In this session we discussed security operations and reverse engineering of Flutter applications. 
+
+  <br><br>
+  <h3>Talks</h3>
+
+<h3>Eliza-May Austin - DRACOEYE the browser-based freebie that’s going to streamline your SOC teams.</h3>
+
+<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<br><br>
+In this session, we'll delve into the origins of DRACOEYE, discussing why it was created and the driving forces behind its development. We'll explore the motivations behind making it freely available and the importance of accessibility in the realm of cybersecurity.
+
+Discover how DRACOEYE's intuitive design makes it ridiculously easy to use, so much so that even your granny could navigate it with ease – we even have a YouTube series in the pipeline to demonstrate this claim! Through a quick demo, you'll see firsthand just how simple and effective DRACOEYE is in bolstering your online security.
+
+Whether you're a seasoned cybersecurity professional or a curious beginner, this talk is for you. Learn who should be using DRACOEYE and how it can benefit individuals and organizations alike. Stick around for a lively Q&A session where you can ask anything about DRACOEYE, from its features to its development journey.
+
+<br><br>
+
+<b>About Eliza-May Austin</b><br>
+
+Eliza knew she wanted to work in tech from the moment she saw Sandra Bullock order Pizza over dial-up in her favourite film, 1995's 'The Net'. Eliza has a degree in Digital Forensics, is SANS-trained in Network Forensics, PurpleTeaming and Penetration Testing. She has previously worked in cyber defence in a number of FTSE100 companies and was the original founder of the Ladies Hacking Society. Despite her fascination with tech she has taken on a more business-centric role and guided the company through impressive growth, won a slew of awards, and was voted one of the most inspirational voices in cybersecurity.
+
+  <br><br>
+
+<h3>Jay Harris - Putting Flutter in the Gutter: how to reverse engineer flutter applications</h3>
+
+<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<br><br>
+In the ever-evolving landscape of mobile application development, Flutter has emerged as a powerful framework, enabling developers to create cross-platform applications with a single codebase. However, with innovation comes the need for robust security measures. This talk aims to delve into the realm of reverse engineering and security assessment specific to Flutter mobile applications.
+
+Reverse engineering, the process of dissecting and understanding the inner workings of an application, is a double-edged sword. While developers leverage it for debugging and optimization, adversaries exploit it to identify vulnerabilities and potential security weaknesses. In this presentation, we will explore various reverse engineering techniques tailored to Flutter apps, shedding light on the underlying architecture and highlighting potential attack vectors.
+
+<br/><br/>
+<b>About Jahmel Harris</b><br>
+
+Jahmel Harris is a seasoned security researcher, hacker, and co-founder of Digital Interruption, a Manchester based cyber security consultancy. His expertise lies in securing organizations through a blend of penetration testing and integrating security practices into application development pipelines.
+
+Jahmel’s impactful work has garnered international recognition, with media coverage of his research and widespread attendance at his workshops on mobile hacking. His contributions extend beyond the technical realm, as he actively participates in cyber security advisory groups and tech conferences, including 44Con, Hacklu and leHACK. Jahmel’s dedication to advancing security practices has led to the release of multiple public disclosures, further enhancing software protection. His commitment to the field is evident through open-source contributions and free online and in person security workshops and training.
+
+Jahmel’s impact on the cybersecurity landscape continues to grow, making him an invaluable asset in the realm of mobile application reverse engineering and security assessments.
+
+  <br><br>
+  <h3>Sponsors</h3>
+
+  We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
+
+<b>Cytix</b> - Venue Sponsor<br>
+<b>ReportURI</b> - Food & Drink Sponsor
+
+</details>
+
+<details>
   <summary><b>Assembly and Disassembly, an OWASP guide to application security - 15 January 2024</b></summary>
 
   <h3>Details</h3>
