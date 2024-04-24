@@ -100,7 +100,7 @@ This talk would be an overview of how basic assembly and memory works, the struc
 <br/><br/>
 <b>About Tom Blue</b><br>
 
-Tom is a second year student at Lancaster University studying computer science. He’s passionate about cybersecurity, having worked in the industry for two years, as well as helping run LUHack and LUCompSoc, Lancaster University's hacking and computing societies. He works the university as a casual researcher and is currently looking at embedded systems security and I'm helping write the Cyber Physical Systems module for the cybersecurity masters degree. He also worked as an intern for Digital Interruption, a Manchester based cyber security consultancy.
+Tom is a second year student studying computer science.
 
   <br><br>
   <h3>Sponsors</h3>
