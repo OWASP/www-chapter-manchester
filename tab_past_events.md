@@ -12,6 +12,54 @@ tags: manchester
 ---
 
 <details>
+  <summary><b>OOOOOOWASP - Ghosts in the Machine: A Halloween Cybersecurity Spooktacular - 24 October 2024</b></summary>
+
+  <h3>Details</h3>
+
+In this spooky session we be discussing AI & it's impact on the different aspects of cyber security. 
+
+  <br><br>
+  <h3>Talks</h3>
+
+<h3>Alsa Tibbit - Digital Fossils: Bones of APTs</h3>
+
+<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<br><br>
+This talk takes the audience on a captivating journey through the speaker’s explorations in cybersecurity research. It highlights how a blend of critical thinking and Explainable Artificial Intelligence (XAI) has paved the way for an innovative approach to addressing complex cyber threats. Focusing on Advanced Persistent Threats (APTs) as a prime example, the speaker illustrates how a solution-driven mindset, enhanced by XAI, has led to groundbreaking cybersecurity advancements. This novel methodology garnered substantial support from Sheffield Hallam University and La Trobe University in Australia, creating new avenues to detect and counter cyber threats.
+
+<br><br>
+
+<b>About Alsa Tibbit</b><br>
+
+As a seasoned cybersecurity professional with extensive experience in academia and industry, Alsa has excelled in teaching, research, and leadership. Her notable accomplishments include authoring a £100k technical proposal and leading an Innovate project focused on machine learning, malware analysis, and data mining. In 2023, she was involved in a research project for DSIT addressing the cybersecurity skills gap in the UK, further underscoring her dedication to advancing the field.
+
+Alsa is currently involved in two key projects: one focusing on Advanced Persistent Threats (APTs) and Explainable Artificial Intelligence (XAI), and another tackling ARM architecture and Java vulnerability research. These endeavours highlight her commitment to personal and professional development as she continues contributing to the ever-evolving cybersecurity world.
+
+  <br><br>
+
+<h3>Leum Dunn - AI AIEEEE (the revenge - re-deux)</h3>
+
+<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<br><br>
+A fusion of mischievous ideas, distilled from presentations at B-Sides Leeds and Lancs, exploring the playful and slightly chaotic potential of AI tools. Buckle up, it’s going to be a wild ride!
+
+<br/><br/>
+<b>About Leum Dunn</b><br>
+
+Leum Dunn has been lurking in the shadows of the tech world for over 20 years, with the last decade spent fortifying defenses in the cybersecurity realm. His expertise shines brightest in the betting and gaming industry, though he’s also dabbled in critical national infrastructure and print manufacturing, just for fun. When he’s not safeguarding digital kingdoms, Leum can be found playing bass guitar (badly, by his own admission) or immersing himself in gothic rock and jazz noir. His talk today is a fusion of mischievous ideas, distilled from presentations at B-Sides Leeds and Lancs, exploring the playful and slightly chaotic potential of AI tools. Buckle up, it’s going to be a wild ride!
+
+Yes, I asked ChatGPT to write that. No, I'm not ashamed. I'm not even going to correct the spelling!
+
+  <br><br>
+  <h3>Sponsors</h3>
+
+  We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
+
+<b>Booking.com</b> - Venue and Food & Drink Sponsor<br>
+
+</details>
+
+<details>
   <summary><b>Forward or Reverse Engineering - Get your app security into gear - 18 April 2024</b></summary>
 
   <h3>Details</h3>
