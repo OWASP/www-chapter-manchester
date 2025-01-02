@@ -13,6 +13,7 @@
 * Daniel Oates-Lee
 * Daniel Pollard
 * Joe Carter
+* Nick Simpson
 * Pete Davies
 * Simon Bennetts
 * Simon Gurney
