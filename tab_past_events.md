@@ -8,6 +8,61 @@ tags: manchester
 ---
 
 ---
+### 2025
+---
+
+<details>
+  <summary><b>Who’s Engineering Your Socials? Let's Talk About Social Engineering! - 21 March 2025</b></summary>
+
+  <h3>Details</h3>
+
+In this session we discussed social engineering with MD Shafquat Hossain Khan and Holly Grace Williams!
+
+  <br><br>
+  <h3>Talks</h3>
+
+<h3>MD Shafquat Hossain Khan - Social Engineering in the Age of Deepfakes</h3>
+
+
+Social engineering has long been one of the most effective techniques for cyber attackers, exploiting human trust to breach systems. With the rise of deepfake technology, attackers now wield tools that blur the line between reality and deception, and the stakes have never been higher. This talk explores how deepfakes are revolutionizing social engineering tactics, providing real-world examples of deepfake-enabled phishing, impersonation, and disinformation campaigns.
+
+<br><br>
+
+<b>About MD Shafquat Hossain Khan</b><br>
+
+A cybersecurity professional with a passion for offensive security, ethical hacking, and penetration testing. He holds a BSc in Computer Science from Swansea University and has earned certifications such as the Google Professional Cybersecurity Certificate, CompTIA Security+, and ISC2 Certified in Cybersecurity (CC). Currently studying for the CompTIA PenTest+, he actively develops his skills through hands-on projects, including building a phishing attack simulator, developing a host-based intrusion detection system, and diving deeper into the realm of ethical hacking.
+Outside of cybersecurity, Shafquat enjoys gaming—both as a player and a designer, working on his own surreal, narrative-driven video game. He also makes music, spends time discovering new artists, and is currently learning to play the guitar (though he won’t be headlining any concerts just yet). Whether it’s hacking, game design, or jamming out, he’s always looking for the next thing to master.
+
+  <br><br>
+
+<h3>Holly Grace Williams - Breaking into Computers and Buildings For a Living.</h3>
+
+Information Security these days has a strong focus on cyber security but you there's more to security than shouting at computers. In this talk Holly will cover how technical, social, and physical attacks can be combined to cause significant impact with low effort. This story covers how to break into buildings and hang out in other peoples offices in the name of c̷y̷b̷e̷r̷c̷r̷i̷m̷e̷ security testing.
+
+<br/><br/>
+<b>About Holly Grace Williams</b><br>
+
+Holly Grace Williams is the Managing Director at Akimbo Core, a cybersecurity firm based in the UK. She has been working in cybersecurity since 2007, with a focus on penetration testing, training, and cybersecurity consultancy.
+
+Holly Grace is a CREST Fellow and has been a CREST Certified Application Tester since 2015. She has performed a significant number of penetration testing engagements for a wide range of companies from innovative start-ups to multinational corporations – in fields ranging from e-commerce to banking.
+
+Her expertise spans various areas of cybersecurity, such as web application security, infrastructure security, and cloud security.
+
+Holly is also an influential public speaker and media commentator, having appeared on platforms like Sky News and BBC, and she frequently speaks at cybersecurity conferences.
+
+Yes, I asked ChatGPT to write that. No, I'm not ashamed. I'm not even going to correct the spelling!
+
+  <br><br>
+  <h3>Sponsors</h3>
+
+  We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
+
+<b>DiSH</b> - Venue Sponsor<br>
+<b><a href="https://www.pentestpartners.com/" rel="noreferrer">Pen Test Partners</a></b> - Food & Drink Sponsor<br>
+
+</details>
+
+---
 ### 2024
 ---
 
@@ -23,7 +78,7 @@ In this spooky session we be discussing AI & it's impact on the different aspect
 
 <h3>Alsa Tibbit - Digital Fossils: Bones of APTs</h3>
 
-<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<a href="https://www.youtube.com/@owaspmanchester3052/featured" rel="noreferrer">Talk recording coming soon</a>
 <br><br>
 This talk takes the audience on a captivating journey through the speaker’s explorations in cybersecurity research. It highlights how a blend of critical thinking and Explainable Artificial Intelligence (XAI) has paved the way for an innovative approach to addressing complex cyber threats. Focusing on Advanced Persistent Threats (APTs) as a prime example, the speaker illustrates how a solution-driven mindset, enhanced by XAI, has led to groundbreaking cybersecurity advancements. This novel methodology garnered substantial support from Sheffield Hallam University and La Trobe University in Australia, creating new avenues to detect and counter cyber threats.
 
@@ -39,7 +94,7 @@ Alsa is currently involved in two key projects: one focusing on Advanced Persist
 
 <h3>Leum Dunn - AI AIEEEE (the revenge - re-deux)</h3>
 
-<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<a href="https://www.youtube.com/@owaspmanchester3052/featured" rel="noreferrer">Talk recording coming soon</a>
 <br><br>
 A fusion of mischievous ideas, distilled from presentations at B-Sides Leeds and Lancs, exploring the playful and slightly chaotic potential of AI tools. Buckle up, it’s going to be a wild ride!
 
@@ -55,7 +110,7 @@ Yes, I asked ChatGPT to write that. No, I'm not ashamed. I'm not even going to c
 
   We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
 
-<b>Booking.com</b> - Venue and Food & Drink Sponsor<br>
+<b><a href="https://www.booking.com" rel="noreferrer">Booking.com</a></b> - Venue and Food & Drink Sponsor<br>
 
 </details>
 
@@ -71,7 +126,7 @@ In this session we discussed security operations and reverse engineering of Flut
 
 <h3>Eliza-May Austin - DRACOEYE the browser-based freebie that’s going to streamline your SOC teams.</h3>
 
-<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<a href="https://www.youtube.com/@owaspmanchester3052/featured" rel="noreferrer">Talk recording coming soon</a>
 <br><br>
 In this session, we'll delve into the origins of DRACOEYE, discussing why it was created and the driving forces behind its development. We'll explore the motivations behind making it freely available and the importance of accessibility in the realm of cybersecurity.
 
@@ -89,7 +144,7 @@ Eliza knew she wanted to work in tech from the moment she saw Sandra Bullock ord
 
 <h3>Jay Harris - Putting Flutter in the Gutter: how to reverse engineer flutter applications</h3>
 
-<a href="https://www.youtube.com/@owaspmanchester3052/featured">Talk recording coming soon</a>
+<a href="https://www.youtube.com/@owaspmanchester3052/featured" rel="noreferrer">Talk recording coming soon</a>
 <br><br>
 In the ever-evolving landscape of mobile application development, Flutter has emerged as a powerful framework, enabling developers to create cross-platform applications with a single codebase. However, with innovation comes the need for robust security measures. This talk aims to delve into the realm of reverse engineering and security assessment specific to Flutter mobile applications.
 
@@ -109,8 +164,8 @@ Jahmel’s impact on the cybersecurity landscape continues to grow, making him a
 
   We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
 
-<b>Cytix</b> - Venue Sponsor<br>
-<b>ReportURI</b> - Food & Drink Sponsor
+<b><a href="https://www.cytix.io/" rel="noreferrer">Cytix</a></b> - Venue Sponsor<br>
+<b><a href="https://report-uri.com/" rel="noreferrer">Report URI</a></b> - Food & Drink Sponsor
 
 </details>
 
@@ -126,7 +181,7 @@ In this session we discussed application security and the basics of assembly.
 
 <h3>Stuart Crawford - AppSec in the Enterprise: in-flight testing and Shifting Left</h3>
 
-<a href="https://www.youtube.com/watch?v=2SHJBKGCu_4">Talk recording</a>
+<a href="https://www.youtube.com/watch?v=2SHJBKGCu_4" rel="noreferrer">Talk recording</a>
 <br><br>
 In a world where web-based applications are ubiquitous, penetration testing is well-established as a way of verifying those applications are secure, but how do we stop finding ourselves falling into an endless cycle of 'deploy, test, fix'?
 The answer is by paying closer attention to security in the development lifecycle, and I'll provide an example of how we're doing this at one of, if not the largest Independent Software Vendors in the UK
@@ -141,7 +196,7 @@ Stuart is Appsec program manager at one of the largest SaaS companies in the UK
 
 <h3>Tom Blue - Basic Assembly and Memory</h3>
 
-<a href="https://www.youtube.com/watch?v=np88HE8t0cs">Talk recording</a>
+<a href="https://www.youtube.com/watch?v=np88HE8t0cs" rel="noreferrer">Talk recording</a>
 <br><br>
 This talk would be an overview of how basic assembly and memory works, the structure of programs compiled in C and how to follow the logic of disassembled programs. I’ll show how to use tools such as ghidra to decompile code and to make the reverse engineering process more efficient and cover things such as buffer overflows, patching code and return oriented programming.
 
@@ -155,8 +210,8 @@ Tom is a second year student studying computer science.
 
   We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
 
-<b>Amazon</b> - Venue Sponsor<br>
-<b>Pentest</b> - Food & Drink Sponsor
+<b><a href="https://www.amazon.co.uk/" rel="noreferrer">Amazon</a></b> - Venue Sponsor<br>
+<b><a href="https://pentest.co.uk/" rel="noreferrer">Pentest</a></b> - Food & Drink Sponsor
 
 </details>
 
@@ -180,7 +235,7 @@ Using these offensive security techniques, your teams will find new ways to brea
 
 <h3>Dr Katie Paxton-Fear: Go Hack Yourself: API hacking for beginners</h3>
 
-<a href="https://www.youtube.com/watch?v=Og7va5eb8UU">Talk recording</a>
+<a href="https://www.youtube.com/watch?v=Og7va5eb8UU" rel="noreferrer">Talk recording</a>
 <br><br>
 Over the past few years, we've really seen API hacking take off as a field of its own, diverging from typical web app security, but yet parallel to it. Often we point to the amorphous blob that is web security and go: "here you go, now you can be a hacker too", with top 10 lists, write-ups, conference talks and whitepapers smiling as we do. This creates a major challenge for developers who want to test their APIs for security or just people who want to get into API hacking, how on earth do you wade through all the general web security to get to the meat of API hacking, what do you even need to know? This talk is going to break down API hacking from a developer point of view, teaching you everything you need to know about API hacking, from the bugs you can find and to the impact you can cause, to how you can easily test your own work or review your peers. So what are you waiting for join me and go hack yourself!
 
@@ -194,7 +249,7 @@ A lecturer in Cyber Security at Manchester Metropolitan University and a cyber s
 
 <h3>Gerald Benischke - Application DoS vulnerabilities</h3>
 
-<a href="https://www.youtube.com/watch?v=b2o4m-eE-io">Talk recording</a>
+<a href="https://www.youtube.com/watch?v=b2o4m-eE-io" rel="noreferrer">Talk recording</a>
 <br><br>
 This AppSec-focussed talk demonstrates how denial of service attacks can be carried out without throwing lots and lots of traffic at a system and effectively stop services. This uses a couple of vulnerabilities in the play framework as an example and describes the impact. This approach can be likened to using precision guided missiles rather than the carpet bombing of DDoS attacks.
 
@@ -212,8 +267,7 @@ I tend to describe myself as both an Agile Fundamentalist and an AppSec Snooper.
 
   We'd like to say THANK YOU to the companies who helped make this event possible: <br>
 
-<b>Booking.com</b> - Venue Sponsor<br>
-<b>Booking.com</b> - Food & Drink Sponsor
+<b><a href="https://www.booking.com" rel="noreferrer">Booking.com</a></b> - Venue and Food & Drink Sponsor<br>
 
 </details>
 
@@ -232,7 +286,7 @@ By using these tools, your teams will be able to truly show that your products a
 
 <h3>Simon Bennetts: An Introduction to OWASP ZAP</h3>
 
-<a href="https://www.youtube.com/watch?v=8SmimaP0VWc&t=23s">Talk recording</a>
+<a href="https://www.youtube.com/watch?v=8SmimaP0VWc&t=23s" rel="noreferrer">Talk recording</a>
 <br><br>
 
 In this talk Simon (the ZAP founder and project lead) will give you an overview of the worlds most popular web security scanner. He will also talk about the most recent changes and whats coming next.
@@ -248,7 +302,7 @@ Prior to making the move into security he was a developer for 25 years and stron
 
 <h3>Anthony Harrison - SBOMs and why they can help make your software more secure</h3>
 
-<a href="https://www.youtube.com/watch?v=COi7fTmix7U">Talk recording</a>
+<a href="https://www.youtube.com/watch?v=COi7fTmix7U" rel="noreferrer">Talk recording</a>
 <br><br>
 
 This talk will explain what a SBOM (Software Bill of Material) is, how and when they should be produced / some of the challenges that need to be overcome, and demonstrate how they should form part of a DevSecOPs lifecycle. I will try and supplement the talk with some demonstrations using a number of open source applications.
@@ -263,8 +317,8 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
 
   We'd like to say THANK YOU to the companies who helped make this event possible: <br>
 
-<b>Bruntwood</b> - Venue Sponsor<br>
-<b>Cytix</b> - Food & Drink Sponsor
+<b><a href="https://bruntwood.co.uk/" rel="noreferrer">Bruntwood</a></b> - Venue Sponsor<br>
+<b><a href="https://www.cytix.io/" rel="noreferrer">Cytix</a></b> - Food & Drink Sponsor
 
 </details>
 
@@ -281,7 +335,7 @@ An independent systems/software/cyber consultant. I am part of the SPDX communit
 
   <h3>Threat Modelling - <a href="https://uk.linkedin.com/in/fewster" rel="noreferrer">Robin Fewster</a></h3>
 
-  <a href="https://www.youtube.com/watch?v=oceDLvJqlDY">Talk recording</a>
+  <a href="https://www.youtube.com/watch?v=oceDLvJqlDY" rel="noreferrer">Talk recording</a>
 <br><br>
 
   Drawing on some client experiences, Robin will discuss different threat modelling approaches and tools available, and how they went down with development teams.
