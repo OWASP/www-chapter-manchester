@@ -10,6 +10,49 @@ tags: manchester
 ---
 ### 2025
 ---
+<details>
+  <summary><b>DON’T PANIC (or do): an OWASP Guide to Incident Response - 24 June 2025</b></summary>
+
+  <h3>Details</h3>
+
+In this session we discussed all things incident response with Heather Lowrie and Tim Rawlins!
+
+  <br><br>
+  <h3>Talks</h3>
+
+<h3>Heather Lowrie - When the Worst Happens: Lessons in Resilience from a Major Attack</h3>
+
+
+As cyber threats grow in scale and sophistication, no sector is immune. From retail and education to healthcare and finance, organisations are increasingly targeted by ransomware, data breaches, and extortion campaigns. In this session, Heather Lowrie shares real-world insights from leading responses to major cyber incidents, offering a rare, behind-the-scenes perspective from the CISO’s seat. She explores the real-time decision-making, technical challenges, and stakeholder dynamics that define high-pressure incident response. Drawing on cross-sector experience, Heather outlines critical lessons for building resilience in 2025 and ensuring continuity amid significant disruption.
+
+<br><br>
+
+<b>About Heather Lowrie</b><br>
+
+Heather Lowrie is the founder of Resilionix, a deep-tech startup that helps organizations strengthen their resilience. An accomplished leader in cybersecurity, technology, risk, and resilience. Heather has a distinguished career with board-level and CISO experience across both public and private sectors. She serves as a strategic advisor to boards and executive teams, helping them navigate the complexities of modern digital landscapes and implement innovative solutions for enhanced security and resilience.
+A Fellow of the Chartered Institute of Information Security, she was also recognised as the 2024 “CISO of the Year” at SC Awards Europe.
+
+  <br><br>
+
+<h3>Tim Rawlins - The Rumsfeld Score of Cyber Resilience</h3>
+
+Tim will look at the "Rumsfeld Score of Cyber Resilience" as he walks us through war stories from organisations facing up to significant cyber incidents, including the ransomware attacks on the British Library and others.
+
+<br/><br/>
+<b>About Tim Rawlins</b><br>
+
+Tim is a Director and Senior Adviser at NCC Group, where he works closely with Boards, executives, and senior leadership teams to address business risk and enhance operational resilience.
+Tim is a trusted adviser to senior management teams during major crisis events, offering real-time support and direction. He also leads executive-level Gold Team crisis management exercises, preparing clients to navigate the complexities of resilience challenges. Additionally, Tim supports NCC Group's global Public Affairs and Public Relations initiatives, strengthening the organisation’s external positioning and stakeholder engagement.
+
+  <br><br>
+  <h3>Sponsors</h3>
+
+  We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
+
+<b>JLR</b> - Venue Sponsor<br>
+<b><a href="https://www.cytix.io/" rel="noreferrer">Cytix</a></b> - Food & Drink Sponsor<br>
+
+</details>
 
 <details>
   <summary><b>Who’s Engineering Your Socials? Let's Talk About Social Engineering! - 21 March 2025</b></summary>
