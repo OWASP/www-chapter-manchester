@@ -11,6 +11,55 @@ tags: manchester
 ### 2025
 ---
 <details>
+  <summary><b>It Doesn't Have to Be That Hard: Battle of the Hardware Hackers - 04 September 2025</b></summary>
+
+  <h3>Details</h3>
+
+In this meeting we heard from two giants in the world of hardware hacking, people who void warranties not by accident, but as an art form: Jay Harris and Andrew Tierney.
+
+  <br><br>
+  <h3>Talks</h3>
+
+<h3>Andrew Tierney - Quick & Dirty: Getting Inside Boxes</h3>
+
+
+Most infrastructure testers go straight for existing public vulnerabilities or find issues in software to exploit. But what about the hardware sitting right under your nose? Routers, firewalls, booking systems, CCTV, access control, HVAC, car chargers and lighting controllers — they’re all there on site, waiting to spill the beans.
+
+In this talk, we’ll use quick and dirty techniques that find vulnerabilities in hardware fast. We’re not talking full-blown lab teardowns — just fast, pragmatic hacks that turn “mystery boxes” into stepping-stones for deeper access.
+
+You’ll see how a quick poke can reveal hidden backdoor accounts, how dump of flash memory hands you high-value passwords, and how a downloaded firmware with hardcoded VPN keys left an entire fleet of ships wide open.
+
+If you’ve ever walked past a dusty box in a server room and thought, “I wonder what’s inside?” — this talk will show you why sometimes it pays to get your hands dirty.
+
+<br><br>
+
+<b>About Andrew Tierney</b><br>
+
+Andrew Tierney (@cybergibbons) is a hardware hacker and security consultant at Pen Test Partners, specializing in uncovering vulnerabilities in IoT devices and embedded systems. With a background in electronics and software engineering, he bridges hardware tinkering and real-world cybersecurity.
+
+A well-known voice in the security community, Andrew shares teardown threads and research on Twitter, speaks at conferences, and brings hardware hacking to life with hands-on demos. When not breaking connected devices, he’s often reverse-engineering them for fun — proving curiosity (and a soldering iron) are powerful security tools.
+
+  <br><br>
+
+<h3>Jay Harris - Before the Shell: Picking Locks and Cloning Badges</h3>
+
+We all know that a lot of penetration testing consists of sitting in front of a computer looking at code, but the question arises; how do we get to that computer? Sometimes, it's inside a building meaning we need to break several physical barriers before we attempt to get root on the server. In this talk, we'll discuss real world attacks on physical access control systems such as locks, keyfobs and badges we use to enter buildings and demonstrate how, with the right tools, we can clone employee's badges, exploit locks and brute force wireless entry systems.
+
+<br/><br/>
+<b>About Jay Harris</b><br>
+
+Jahmel Harris is a security researcher and ethical hacker with a passion for pulling things apart - both in code and in hardware. As a director at Digital Interruption, he specialises in penetration testing, hardware hacking, and helping organisations understand the real-world impact of security flaws. He's known for making complex security concepts accessible and fun, whether he's demonstrating how everyday tech can be exploited or showing developers how to build with security in mind. Jahmel has spoken at conferences and meetups across the UK. When he's not hunting for vulnerabilities, you'll probably find him reverse-engineering gadgets, tinkering with electronics, or breaking something in the name of learning.
+
+  <br><br>
+  <h3>Sponsors</h3>
+
+  We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
+
+<b><a href="https://www.booking.com" rel="noreferrer">Booking.com</a></b> - Food & Drink Sponsor<br>
+
+</details>
+
+<details>
   <summary><b>DON’T PANIC (or do): an OWASP Guide to Incident Response - 24 June 2025</b></summary>
 
   <h3>Details</h3>
