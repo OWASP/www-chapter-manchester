@@ -1,0 +1,35 @@
+community:
+  - name: chapter-manchester
+    platform: slack
+    url: https://owasp.slack.com/archives/C8CAE8SJG
+    description: For people interested in the OWASP Manchester Chapter
+leaders:
+  - name: Dan Smart
+    email: daniel.smart@owasp.org
+  - name: Paul Johnston
+    email: paul.johnston@owasp.org
+  - name: Saira Hassan
+    email: saira.hassan@owasp.org
+  - name: Saskia Coplans
+    email: saskia.coplans@owasp.org
+  - name: Wesley Parsons
+    email: wesley.parsons@owasp.org
+    github: wesleyparsons
+location:
+  country: United Kingdom
+  country_code: GB
+  region: England
+  city: Manchester
+  latitude: 53.4794892
+  longitude: -2.2451148
+meetup_group: owasp-manchester-uk-chapter
+name: OWASP Manchester
+repositories:
+  - name: www-chapter-manchester
+    url: https://github.com/OWASP/www-chapter-manchester
+    description: OWASP Foundation Web Repository
+tags:
+  - manchester
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-manchester
