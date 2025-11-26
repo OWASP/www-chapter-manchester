@@ -11,6 +11,50 @@ tags: manchester
 ### 2025
 ---
 <details>
+  <summary><b>Break it Before you Make it - 25 November 2025</b></summary>
+
+  <h3>Details</h3>
+
+At this months event Saskia Coplans will talk about secure software development, how breaking things early helps you build them safer, and practical ways to embed security into your build process.
+
+Dr Katie Paxton-Fear will explore how AI is being used in hardware hacking, showing how the same principles of secure design apply from code to circuit.
+
+  <br><br>
+  <h3>Talks</h3>
+
+<h3>Saskia Coplans - OUTSOURCING DEVELOPMENT: WHAT’S THE WORST THAT COULD HAPPEN…? OH…</h3>
+
+
+This is the story of how, in the wake of Roe v Wade, we ran a little experiment to see what the security of a cheaply outsourced mobile symptom tracking application would look like. The results ranged from comic to terrifying.
+
+<br><br>
+
+<b>About Saskia Coplans</b><br>
+
+Saskia is an award-losing security specialist and the co-founder and managing director of Digital Interruption. She sits on several cyber security advisory groups, is a chapter lead for OWASP Manchester, and runs Manchester 2600. She’s a three-time Innovate UK grant recipient and can be seen speaking internationally at tech conferences such as TestBash, EXPOQA, (ISC)² Security Congress, and various BSides. She really, really likes dinosaurs.
+
+  <br><br>
+
+<h3>Dr Katie Paxton-Fear - No Thoughts Only Vibes: Hardware Hacking with AI</h3>
+
+Move over humans AI is here and it’s not stopping at generating LinkedIn cringe. If you’re in security you’ve probably heard a lot already about vibe coding, the new trend that lets anyone build their dream app, riddled with security vulnerabilities. But why stop at React apps? We’re making vibe coding 3D: Can AI help us hack a weather station? We’ve going beyond vibe coding into vibe soldering, vibe amazon-purchasing and vibe plugging-in.
+
+<br/><br/>
+<b>About Dr Katie Paxton-Fear</b><br>
+
+Dr Katie Paxton-Fear is a former developer turned hacker, in her own words she used to make apps and now she breaks them instead. A security advocate at Semgrep she is passionate about teaching people why security matters and how to turn security from chore into adore. She’s reported vulnerabilities in real software you probably use every day and she’s been recognised by the Wall Street Journal, BBC News and even survived being grilled by the dreaded local radio. In her free time she makes YouTube videos for an audience of almost a 100k subscribers.
+
+  <br><br>
+  <h3>Sponsors</h3>
+
+  We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
+
+<b><a href="https://coalfire.com/" rel="noreferrer">Coalfire</a></b> - Venue Sponsor<br>
+<b><a href="https://portswigger.net/" rel="noreferrer">Portswigger</a></b> - Food & Drink Sponsor<br>
+
+</details>
+
+<details>
   <summary><b>It Doesn't Have to Be That Hard: Battle of the Hardware Hackers - 04 September 2025</b></summary>
 
   <h3>Details</h3>
