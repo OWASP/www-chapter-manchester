@@ -23,8 +23,10 @@ Whether you're a seasoned security specialist or simply looking to expand your u
   <br><br>
   <h3>Talks</h3>
 
-<h3>Richard Stewart - Supply chain attacks</h3>
+<h3>Richard Stewart &amp; Andy - Supply chain attacks</h3>
 
+Richard is Head of Security Strategy &amp; Architecture at AJ Bell, and with Andy described the steps taken within their organisation to defend against the spike of supply chain attacks in 2026.
+<br><br>
 
 <h3>Rory Sheldon - Using Firecracker microVMs and Foundation Models to Accelerate Malicious npm Package Analysis</h3>
 
@@ -32,6 +34,7 @@ Static signatures and manual review can’t keep pace with the volume of malicio
 
 <br><br>
 
+<b>About Rory</b><br>
 Rory is Staff Product Security Engineer at Snyk.
 
   <br><br>
@@ -77,7 +80,7 @@ Special thank you to <a href="https://www.secureflag.com/">SecureFlag</a> for cr
 
   We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
 
-<b><a href="https://coalfire.com/" rel="noreferrer">Coalfire</a></b> - Venue Sponsor<
+<b><a href="https://coalfire.com/" rel="noreferrer">Coalfire</a></b> - Venue Sponsor<br>
 <b><a href="https://www.anaplan.com/" rel="noreferrer">Anaplan</a></b> - Food &amp; Drink Sponsor<br>
 
 </details>
