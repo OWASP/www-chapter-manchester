@@ -135,6 +135,7 @@ He has been a mentor for the Google Summer of Code for the past four years via t
 
 </details>
 
+<br>
 
 ---
 ### 2025
@@ -326,6 +327,8 @@ Yes, I asked ChatGPT to write that. No, I'm not ashamed. I'm not even going to c
 <b><a href="https://www.pentestpartners.com/" rel="noreferrer">Pen Test Partners</a></b> - Food & Drink Sponsor<br>
 
 </details>
+
+<br>
 
 ---
 ### 2024
@@ -729,3 +732,104 @@ Thanks to our community sponsors; Manchester Grey Hats, North West Testers Gathe
     University of Manchester - Venue<br>
     NCC Group
 </details>
+
+<br>
+
+---
+### 2017
+---
+
+<details>
+  <summary><b>26 April 2017</b></summary>
+
+<h3>Wednesday 26th April at ThoughtWorks, City Tower, Manchester</h3>
+
+<p>This event will be hosted by ThoughtWorks at their newly refurbished City Tower offices right in the heart of the city. ThoughtWorks will also be providing the pizza; beer sponsors will be announced shortly (or else we're all going thirsty!)</p>
+
+<h3>Alex Haynes - I found a Vulnerability!</h3>
+
+<p>The talk will cover vulnerability disclosure and the pitfalls to avoid both as a security researcher and as a company exposed to vulnerabilities. We'll also cover different types of disclosure programs like Bugcrowd and Hackerone, and the advantages and disadvantages of each. The Grey market will get a brief look and of course we'll talk about vulnerabilities. Lots and lots of vulnerabilities.</p>
+
+<h3>Tim Fletcher - Distributed Policy Enforcement with OpenSSH Certificates</h3>
+
+<p>OpenSSH is installed on nearly every virtual machine, physical server and many IoT devices. OpenSSH is a critical systems administration tool used to manage everything from the server in the shed to continent spanning collections of systems.</p>
+
+<p>Logging in to OpenSSH quickly and security is normally done with keys, sometimes using strong passwords and hardware key storage all too often left lying about on laptops.</p>
+
+<p>Managing the list of keys and permissions for an organisation of more than a handful of people rapidly gets challenging, tracking who has used which key to do what even more so.</p>
+
+<p>Using the CA feature of OpenSSH it is possible to remove all this complexity, and leverage OpenSSH to enforce your central policies and provide you with strong audit trails.</p>
+
+<p>The talk will cover the technical aspects of what can be done with SSH certificates and the implementation for SSH certificates for an IoT focused business. The management server the business uses will be released shortly before the talk as an OSS project during the FLOSSUK Conference in March.</p>
+</details>
+
+<br>
+
+---
+### 2016
+---
+
+<details>
+  <summary>30 November 2016</summary>
+
+<p>Wednesday 30th November At Orange Tower, MediaCityUK. (See http://www.salford.ac.uk/__data/assets/pdf_file/0011/42500/MediaCity-map.pdf for location/travel information.)</p>
+
+<p>This event was sponsored by Computer Science at University of Salford, Pentest UK and Hedgehog Security.</p>
+
+<h3>An Anatomy of IoT Security - Dominic Chell</h3>
+
+<p>With an estimated 26 billion devices online by 2020 and in wake of a number of large scale IoT hacks, IoT security has come under close scrutiny of late. This talk provides a whistle-stop tour in to the world of IoT hacking, discussing the various IoT attack surfaces and using practical examples to illustrate the OWASP Internet of Things Top 10.</p>
+
+<h3>JSON Hijacking - Gareth Heyes</h3>
+
+<p>JSON hijacking is supposedly dead after the Array constructor and "Object.prototype" setter bugs have been patched or is it? This talk will show how it's still possible to steal JSON data cross domain using various browser bugs. Gareth will take us on an epic journey of bug discovery and if we have time he may even bypass CSP for fun.</p>
+
+</details>
+
+<details>
+  <summary>16 June 2016</summary>
+
+<p>Location: SpaceportX, 26 1st floor, 24 Lever St, Manchester M1 1DZ</p>
+
+<p>Event sponsors: <a href="http://avecto.com/">Avecto</a></p>
+
+<h3>Dr. Ali Dehghantanha - Digital Forensics: The Missing Piece of the Internet of Things Promise</h3>
+
+<p><b>Abstract:</b> Every new device we create, every sensor we deploy, every byte we synchronize to other locations will at some point come under scrutiny in the course of investigations and legal matters. Yet no reliable forensics applications nor digital forensics guidance exists to retrieve the data from IoT devices in the event of a cyber event, an active investigation or a litigation request. The digital forensics of internet of things (IoT) technologies is the missing conversation in our headlong rush to the promise of connecting every device on the planet. This presentation discuss about issues and importance of further development in this field and elaborates on how forensics practitioners, device manufacturers and legal authorities could share the efforts and minimise this gap.</p>
+
+<p><b>Speaker's Bio:</b> Dr. Ali Dehghantanha is a Marie-Curie International Incoming Fellow in Cyber Forensics and has served for many years in a variety of research and industrial positions. Other than Ph.D in Cyber Security he holds many professional certificates such as GREM, CISM, CISSP, and CCFP. He has served as an expert witness, cyber forensics analysts and malware researcher with leading players in Cyber-Security and E-Commerce. Additional information can be found at http://alid.info</p>
+
+
+<h3>Paul Johnson - Teaching secure coding</h3>
+
+<p><b>Abstract:</b> Many organisations invest heavily in detecting application vulnerabilities, using static analysis and pen testing. Another tool in your security arsenal is to prevent vulnerabilities being introduced in the first place. To help with this, Pentest provide a "Secure coding workshop". The workshop teaches developers how to code securely, and avoid vulnerabilities like SQL injection and XML external entities. Having run this course with several programming languages, and students of various abilities, we've learned a lot about the pedagogy of secure coding. In this talk we share some of our key insights for delivering a successful secure coding workshop.</p>
+
+<p><b>Speaker's Bio:</b> Paul is a security consultant at Pentest, working mostly on web application tests, and the secure coding workshop. He is interested in static analysis, and how frameworks can encourage developers to write secure applications. When he's not on the computer, you might see him running or on a mountain bike.</p>
+
+<h3>Jennie Williams - Tackling Cyber Crime in the North West</h3>
+
+<p><b>Abstract:</b> The National Security Strategy categorised cyber-attacks as a Tier One threat to our national security, alongside international terrorism. The threat to our national security from cyber-attacks is real and growing. Terrorists, hostile states and cyber criminals are among those targeting computer systems in the UK. We all need to work together to combat this threat and help protect one another.</p>
+
+<p><b>Speaker's Bio:</b> Jennie Williams is a Cyber Protect Officer at TITAN, the North West Regional Organised Crime Unit. Her role involves working with business, education and the general public to raise awareness of the potential risk and impact of Cyber Crime along with the simple steps that can be taken to prevent becoming a victim.</p>
+
+</details>
+
+<details>
+<summary>17 March 2016</summary>
+
+<p>Location: SpaceportX, 26 1st floor, 24 Lever St, Manchester M1 1DZ</p>
+
+<p>Event sponsors: <a href="http://avecto.com/">Avecto</a></p>
+
+<h3>Scott Helme</h3>
+<p><b>Abstract:</b> Turning over a new Leaf – How the world’s bestselling electric car, the Nissan Leaf can be accessed remotely to activate the climate control and spy on details of the driver’s journeys simply by knowing or guessing the VIN of the vehicle. This may seem like a harmless prank but could be used to void warranties or drain batteries remotely, with Nissan looking to add GPS tracking to the vehicles this issue could have become a whole lot worse.</p>
+
+<p><b>Speaker bio:</b> Scott is a Pen Tester by day and runs several well-known security sites and blogs by night including report-uri.io, securityheaders.io and scotthelme.co.uk.</p>
+
+<h3>Julian Horoszkiewicz</h3>
+
+<p><b>Abstract:</b> Blind detection of path traversal-vulnerable file uploads - Presentation of an experimental web penetration testing technique, aiming at detection of path traversal issues in file upload implementations, with zero knowledge about the remote directory structure.</p>
+
+<p><b>Speaker bio:</b> Julian Horoszkiewicz, IT Security Consultant at Pentest Ltd, OSCP, open source and security enthusiast, recently focused on methodology</p>
+
+<details>
