@@ -8,6 +8,132 @@ tags: manchester
 ---
 
 ---
+### 2026
+---
+
+<details>
+  <summary><b>From 0-Day to Secure Day - 22 July 2026</b></summary>
+
+  <h3>Details</h3>
+
+This July, OWASP Manchester welcomes you to AJ Bell’s generously hosted venue for an evening of thought-provoking talks, where three cybersecurity experts will unpack the latest innovations, emerging challenges, and developments shaping the security landscape.
+<br><br>
+Whether you're a seasoned security specialist or simply looking to expand your understanding of the evolving threat landscape, you'll leave with fresh perspectives, actionable knowledge, and the chance to connect with members of Manchester's thriving cybersecurity community. We look forward to welcoming you for an evening of learning, discussion, and networking.
+
+  <br><br>
+  <h3>Talks</h3>
+
+<h3>Richard Stewart - Supply chain attacks</h3>
+
+
+<h3>Rory Sheldon - Using Firecracker microVMs and Foundation Models to Accelerate Malicious npm Package Analysis</h3>
+
+Static signatures and manual review can’t keep pace with the volume of malicious npm packages. This talk explores using Firecracker microVMs for safe, fast, disposable execution environments combined with foundation models to speed up analysis. We’ll cover the architectural decisions, what the models are actually good at, and the gaps that still need solving.
+
+<br><br>
+
+Rory is Staff Product Security Engineer at Snyk.
+
+  <br><br>
+
+<h3>Alasdair Gorniak - Getting Your First 0-day</h3>
+
+We will be going over how you can get your first CVE and how you can use the knowledge from your first likely very poor CVE into something more much impactful. I will go over my starting CVE’s and then go into high impact CVE’s found by me and my team
+<br/><br/>
+<b>About Alasdair</b><br>
+
+A cybersecurity researcher and ethical hacker focused on real-world vulnerability discovery. He has responsibly disclosed security issues to major organizations including Microsoft, NASA, and blockchain-based platforms, with multiple findings earning CVEs and bug bounties. His work spans web and local application security, grounded in hands-on testing of production software. Outside of breaking things, Alasdair pursues his personal faith, volunteers for charitable causes, and spends time outdoors with his family - running mountain trails and enjoying time in nature.
+
+  <br><br>
+  <h3>Sponsors</h3>
+
+  We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
+
+<b><a href="https://www.ajbell.co.uk/" rel="noreferrer">AJ Bell</a></b> - Venue Sponsor AND Food &amp; Drink Sponsor<br>
+
+</details>
+
+<details>
+  <summary><b>Secure the Flag!! - 2 July 2026</b></summary>
+
+  <h3>Details</h3>
+
+This summer OWASP Manchester is joining forces with SecureFlag to bring you a summertime capture the flag tournament
+<br><br>
+SecureFlag’s Secure-The-Flag tournaments transform security training from passive lectures
+into an interactive, social event. Engineers compete to solve hands-on coding labs in a
+time-bound challenge session.
+
+  <br><br>
+Participants work inside fully provisioned hands-on development environments. They identify
+vulnerabilities in running applications, then write and submit fixes that must pass both security
+and functional tests. A live leaderboard tracks progress in real time, and the top three
+performers win gifts from SecureFlag &amp; our sponsor Anaplan.
+<br><br>
+
+Special thank you to <a href="https://www.secureflag.com/">SecureFlag</a> for creating this host the CTF &amp; all the background to make it a success
+
+  <h3>Sponsors</h3>
+
+  We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
+
+<b><a href="https://coalfire.com/" rel="noreferrer">Coalfire</a></b> - Venue Sponsor<
+<b><a href="https://www.anaplan.com/" rel="noreferrer">Anaplan</a></b> - Food &amp; Drink Sponsor<br>
+
+</details>
+
+<details>
+  <summary><b>Accessibility &amp; AppSec - Are we ever alone in our fight? - 31 March 2026</b></summary>
+
+  <h3>Details</h3>
+
+This March, OWASP Manchester welcomes you to the familiar halls of Barclays DiSH to hear some exciting talks to get 2026 started in style
+
+  <br><br>
+  <h3>Talks</h3>
+
+<h3>Aliyu G Yisa - Accessibility &amp; Application Security</h3>
+
+About 1.3 billion people worldwide have a disability. Accessibility standards and practices exist so those people can access products, content and environments like everyone else. Accessibility doesn't often feature in application security conversations, but it is a critical dimension we can't afford to miss. When users with disabilities can't independently authenticate to an application or access their own sensitive information, this puts their privacy, security and safety at risk. When security tools and education are inaccessible, people with disabilities are blocked or severely disadvantaged in the cybersecurity industry. As a community that values inclusion, fairness and ethics, we're well placed to lead on this. In this session, we will discuss accessibility barriers, how they impact security, real examples of how people are affected, and what we can and should be doing to improve accessibility.
+
+<br><br>
+
+<b>About Aliyu</b><br>
+
+Aliyu is a cyber security practitioner, startup and non-profit founder, and an advocate for accessible security. He has built several realistic open-source labs like Zero-Health for learning Application Security and Web and API hacking. In addition to his work as a security engineer, he co-founded Fezzant on a mission to make cybersecurity accessible and inclusive. He also co-founded CyBlack to build the next generation of black/African cyber security talent. Aliyu also volunteers for The Cyber Helpline as an Advisory Board Member. Aliyu has presented about accessibility and cyber security at several events including Axe-Con, DTX Manchester and National Cyber Security Show.
+
+  <br><br>
+
+<h3>Anthony Harrison - OWASP Proejcts</h3>
+
+We all know OWASP produces some awesome projects but how many of them do you know about? With over 400 awesome projects (and growing) it is hard to keep up with all of the developments. 
+<br/><br/>
+
+This talk will provide an overview for a numnber f tools which are useful in the AppSec space. I may even include some demos!. 
+<br/><br/>
+
+As many of the projects are violunteer led, I will be highlighting some recent projects which have just started and are looking for violunteers to help them get off the ground.
+<br/><br/>
+<b>About Anthony</b><br>
+
+Anthony Harrison has been developing and delivering mission-critical applications for over 40 years working on various complex programs where he held various roles in software, systems and cyber engineering, as well as providing technical leadership for a number of programmes.
+  <br><br>
+He is the Founder and Director of APH10, and co-founder of SBOM Europe, and is a leading source of expertise in Software Bill of Materials (SBOM). He has been developing open source software actively for a number of years; most recently, the applications have been related to supporting the software supply chain through utilities to generate and analyse software bills of materials (SBOMs).
+  <br><br>
+He has been a mentor for the Google Summer of Code for the past four years via the Python Software Foundation and is a mentor for his local CoderDojo in Manchester teaching students Python.
+
+  <br><br>
+  <h3>Sponsors</h3>
+
+  We'd like to say a big THANK YOU to the companies who helped make this event possible: <br>
+
+<b><a href="https://labs.uk.barclays/dish/" rel="noreferrer">Barcays DiSH</a></b> - Venue Sponsor<br>
+<b><a href="https://curity.io/" rel="noreferrer">Curity</a></b> - Food &amp; Drink Sponsor<br>
+
+</details>
+
+
+---
 ### 2025
 ---
 <details>
