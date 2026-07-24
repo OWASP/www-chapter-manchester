@@ -770,7 +770,7 @@ Thanks to our community sponsors; Manchester Grey Hats, North West Testers Gathe
 ---
 
 <details>
-  <summary>30 November 2016</summary>
+  <summary><b>30 November 2016</b></summary>
 
 <p>Wednesday 30th November At Orange Tower, MediaCityUK. (See http://www.salford.ac.uk/__data/assets/pdf_file/0011/42500/MediaCity-map.pdf for location/travel information.)</p>
 
@@ -787,7 +787,7 @@ Thanks to our community sponsors; Manchester Grey Hats, North West Testers Gathe
 </details>
 
 <details>
-  <summary>16 June 2016</summary>
+  <summary><b>16 June 2016</b></summary>
 
 <p>Location: SpaceportX, 26 1st floor, 24 Lever St, Manchester M1 1DZ</p>
 
@@ -815,7 +815,7 @@ Thanks to our community sponsors; Manchester Grey Hats, North West Testers Gathe
 </details>
 
 <details>
-<summary>17 March 2016</summary>
+<summary><b>17 March 2016</b></summary>
 
 <p>Location: SpaceportX, 26 1st floor, 24 Lever St, Manchester M1 1DZ</p>
 
@@ -833,3 +833,10 @@ Thanks to our community sponsors; Manchester Grey Hats, North West Testers Gathe
 <p><b>Speaker bio:</b> Julian Horoszkiewicz, IT Security Consultant at Pentest Ltd, OSCP, open source and security enthusiast, recently focused on methodology</p>
 
 <details>
+
+<br>
+
+---
+### 2016
+---
+
